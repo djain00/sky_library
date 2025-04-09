@@ -1,4 +1,4 @@
-# 📚 Sky Library LMS
+# 📚 Sky Library
 
 Sky Library is a simple, responsive Library Management System built using PHP, MySQL, and Tailwind CSS. It includes role-based access (admin/user), book and borrow management, overdue tracking, reporting, and PDF export features.
 
